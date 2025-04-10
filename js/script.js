@@ -44,7 +44,7 @@ document.addEventListener("DOMContentLoaded", () => {
       },
     ],
     navLinks: [
-      { name: "Web Demo", url: "#" },
+      { name: "Web Demo", url: "https://handwritten-digit-recognition-vjhi.vercel.app/" },
       {
         name: "Github",
         url: "https://github.com/NitinVerma2027/PRML-Apr2025",
